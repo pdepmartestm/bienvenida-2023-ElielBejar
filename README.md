@@ -11,3 +11,5 @@ Mis hobbies que suelo hacer son:
 
 Por el momento estoy trabajando en el rubro textil pero para el año que viene ya espero trabajar de programador.
 Nada mas que agregar, un saludo a todos!
+
+![foto perfil](/foto_tp1.jpg)
